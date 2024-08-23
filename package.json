@@ -1,0 +1,21 @@
+{
+  "name": "demonodeappcicd",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
